@@ -91,16 +91,16 @@ const Contact = () => {
               <input
                 type="text"
                 className={`input-field ${isHomePage ? 'input-field-home':'input-field-contact'}`}
-                name="name"
-                id="name"
+                name="from_name"
+                id="from_name"
                 placeholder="Name"
                 required
               />
               <input
                 type="email"
                 className={`input-field ${isHomePage ? 'input-field-home':'input-field-contact'}`}
-                name="email"
-                id="email"
+                name="reply_to"
+                id="reply_to"
                 placeholder="Email"
                 required
               />
