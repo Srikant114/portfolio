@@ -1,0 +1,44 @@
+.input-field-home {
+    display: inline-block;
+    padding: 9px;
+    border-radius: 7px;
+    box-shadow: 0 0 9px 2px #141414;
+    margin: 12px 0;
+    width: 100%;
+    background-color: #1c2323;
+    color: #999;
+}
+
+.input-field-contact {
+    display: inline-block;
+    padding: 9px;
+    border-radius: 7px;
+    box-shadow: 0 0 9px 2px #2d4949;
+    margin: 12px 0;
+    width: 100%;
+    background-color: #2f3939;
+    color: #999;
+}
+
+.input-field::placeholder {
+    color: #999;
+}
+
+.input-field:focus {
+    outline: none;
+    box-shadow: 0 0 5px 2px #00b0ff;
+}
+textarea{
+    resize: none;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+    transition:
+        background-color 600000s 0s,
+        color 600000s 0s;
+}
+
+input[data-autocompleted] {
+    background-color: transparent !important;
+}

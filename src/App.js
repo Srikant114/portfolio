@@ -1,24 +1,47 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Navigate, Route, Routes, useLocation } from "react-router-dom";
+import {
+  Navbar,
+  Footer,
+  ProjectSummary,
+  BlogsPage,
+  BlogSummary,
+  PageNotFound,
+  ScrollToTop,
+} from "./components";
+
+import About from "./pages/About/About";
+import Contact from "./pages/Contact/Contact";
+import Blog from "./pages/Blog/Blog";
+
+const Home = React.lazy(() => import("./pages/Home/Home"));
+const Project = React.lazy(() => import("./pages/Project/Project"));
 
 function App() {
+  const location = useLocation();
+  const isFalse = location.pathname.includes("404");
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <ScrollToTop />
+      {isFalse || <Navbar />}
+
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/project" element={<Project />} />
+        <Route path="/project/:id" element={<ProjectSummary />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/blog" element={<Blog />}>
+          <Route index element={<BlogsPage />} />
+          <Route path=":blog_path" element={<BlogSummary />} />
+        </Route>
+        <Route path="/404" element={<PageNotFound />} />
+        <Route path="*" element={<Navigate replace to="/404" />} />
+      </Routes>
+
+      {isFalse || <Footer />}
+    </>
   );
 }
 
