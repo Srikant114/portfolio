@@ -75,7 +75,7 @@ const BlogsPage = () => {
                 className=" flex flex-col w-full items-center justify-between gap-8 rounded-lg min-h-32"
               >
                 <div className="w-full">
-                  <Link to={"/blog" + path}>
+                  <Link to={"/blog/" + path}>
                     <LazyLoadImage
                       placeholderSrc={spin}
                       src={img}
