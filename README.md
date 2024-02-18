@@ -54,7 +54,7 @@ This project was created using the following technologies.
 ![img-4](./portfolioImages/four.png)
 ![img-5](./portfolioImages/five.png)
 ![img-6](./portfolioImages/six.png)
-![vid-1](./portfolioImages/portfolio%20video%20.mp4)
+[![Watch the video]](https://res.cloudinary.com/dkysfzs5s/video/upload/v1708245411/srikantPortfolio/portfoliovideo.mp4)
 
 
 ## Author
