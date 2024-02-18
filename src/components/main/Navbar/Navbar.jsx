@@ -66,7 +66,7 @@ const Navbar = () => {
       <div className="w-full flex items-center justify-between px-3 md:px-24 py3">
         <div>
           <Link to="/">
-            <h1 className="text-2xl text-primary font-lobster">Srikant Sahu</h1>
+            <h1 className="text-2xl text-primary font-Protest">Srikant Sahu</h1>
           </Link>
         </div>
         <div>
