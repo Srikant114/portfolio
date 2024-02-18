@@ -49,6 +49,12 @@ This project was created using the following technologies.
 ## Screenshots
 
 ![img-1](./portfolioImages/one.png)
+![img-2](./portfolioImages/two.png)
+![img-3](./portfolioImages/three.png)
+![img-4](./portfolioImages/four.png)
+![img-5](./portfolioImages/five.png)
+![img-6](./portfolioImages/six.png)
+![vid-1](./portfolioImages/portfolio%20video%20.mp4)
 
 
 ## Author
