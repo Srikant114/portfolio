@@ -48,7 +48,8 @@ This project was created using the following technologies.
 
 ## Screenshots
 
-![img-1](link)
+![img-1](./portfolioImages/one.png)
+
 
 ## Author
 
