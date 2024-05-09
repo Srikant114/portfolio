@@ -44,7 +44,7 @@ const Banner = () => {
           applications.
         </p>
         <div className="flex items-center translate-y-[-60%] sm:translate-y-[-0%]">
-          <a href="/" target="blank">
+          <a href="https://drive.google.com/file/d/1OcBIbkevdIpzLZEgk8ylgCRLCkuD9cMk/view?usp=sharing" target="blank">
             <button className="primary-button">
               <span>My Resume</span>
               <span>

@@ -94,7 +94,7 @@ const About = () => {
                 srikantsahu114@gmail.com
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Address :</span>Puri,
+                <span className="mr-2 text-primary">Address :</span>Sunabeda,
                 Odisha, India
               </h2>
               <a
