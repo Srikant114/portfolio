@@ -55,5 +55,9 @@
     "daisyui": "^4.6.0",
     "postcss": "^8.4.33",
     "tailwindcss": "^3.4.1"
-  }
+  },
+  "description": "[Resume 💼](https://drive.google.com/file/d/1RbIE-g7Nsj_kvOkOy3EQQIW7SlusRXt3/view?usp=sharing)",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
 }

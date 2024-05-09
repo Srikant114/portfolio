@@ -98,7 +98,7 @@ const About = () => {
                 Odisha, India
               </h2>
               <a
-                href="https://drive.google.com/file/d/1RbIE-g7Nsj_kvOkOy3EQQIW7SlusRXt3/view?usp=sharing"
+                href="https://drive.google.com/file/d/1OcBIbkevdIpzLZEgk8ylgCRLCkuD9cMk/view?usp=sharing"
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">

@@ -34,7 +34,7 @@ const Education = () => {
               <p className="text-sm text-neutral font-semibold">2023</p>
             </div>
             <p className="text-sm text-neutral text-justify">
-              I have sucessfully Completed <b>MERN Stack Developer</b> at
+              I have successfully Completed <b>MERN Stack Developer</b> at
               Jspider, Bangalore.
             </p>
           </div>
@@ -48,8 +48,8 @@ const Education = () => {
               <p className="text-sm text-neutral font-semibold">2019 - 2022</p>
             </div>
             <p className="text-sm text-neutral text-justify">
-              I have sucessfully passed Btech in Mechanical Engineering from
-              Gandhi Acadamy of Technology & Engineering with a CGPA of
+              I have successfully passed Btech in Mechanical Engineering from
+              Gandhi Academy of Technology & Engineering with a CGPA of
               <b>8.9</b>
             </p>
           </div>
@@ -63,7 +63,7 @@ const Education = () => {
               <p className="text-sm text-neutral font-semibold">2013-2016</p>
             </div>
             <p className="text-sm text-neutral text-justify">
-              I have sucessfully passed Diploma in Mechanical engineering from
+              I have successfully passed Diploma in Mechanical engineering from
               Siddhartha Institute of Engineering & Technology with<b> 75%</b>
             </p>
           </div>
@@ -75,7 +75,7 @@ const Education = () => {
               <p className="text-sm text-neutral font-semibold">2013</p>
             </div>
             <p className="text-sm text-neutral text-justify">
-              I have sucessfully passed my 10th from Sunabeda Public School
+              I have successfully passed my 10th from Sunabeda Public School
               (ICSE) with
               <b> 64%</b>
             </p>

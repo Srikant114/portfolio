@@ -157,31 +157,31 @@ const Contact = () => {
           </div>
           <div className="flex items-center my-6">
             <FaLocationArrow className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300" />
-            <h3 className="font-medium text-primary">Puri, Odisha, India</h3>
+            <h3 className="font-medium text-primary">Sunabeda, Odisha, India</h3>
           </div>
           <div className="mt-8 flex items-center">
             <h3 className="text-xl text-neutral ">Social</h3>
             <div className="bg-gray-400 w-10 h-[2px] mx-4" />
             <a
-              href="/"
+              href="https://www.linkedin.com/in/srikantsahu114"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaLinkedin />
             </a>
             <a
-              href="/"
+              href="https://github.com/Srikant114"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaGithubSquare />
             </a>
             <a
-              href="/"
+              href="https://www.instagram.com/srikantvlogs/"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaInstagramSquare />
             </a>
             <a
-              href="/"
+              href="https://twitter.com/srikantvlogs"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
               <FaTwitterSquare />

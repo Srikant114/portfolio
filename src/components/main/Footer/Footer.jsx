@@ -11,16 +11,16 @@ const Footer = () => {
         style={{ backgroundColor: "#2f3939" }}
       >
         <div className="flex items-center justify-center mb-6">
-          <a href="/" className="inline-block mx-2">
+          <a href="https://github.com/Srikant114" className="inline-block mx-2">
             <FaGithub className="text-2xl text-neutral hover:text-[#fff]" />
           </a>
-          <a href="/" className="inline-block mx-2">
+          <a href="https://www.linkedin.com/in/srikantsahu114" className="inline-block mx-2">
             <FaLinkedin className="text-2xl text-neutral hover:text-[#0077b5]" />
           </a>
-          <a href="/" className="inline-block mx-2">
+          <a href="https://twitter.com/srikantvlogs" className="inline-block mx-2">
             <FaTwitter className="text-2xl text-neutral hover:text-[#1da1f2]" />
           </a>
-          <a href="/" className="inline-block mx-2">
+          <a href="https://www.instagram.com/srikantvlogs/" className="inline-block mx-2">
             <FaInstagram className="text-2xl text-neutral hover:text-[#c13584]" />
           </a>
         </div>
@@ -50,7 +50,7 @@ const Footer = () => {
             Dev.Io
           </a>
           <a
-            href="https://drive.google.com/file/d/1RbIE-g7Nsj_kvOkOy3EQQIW7SlusRXt3/view?usp=sharing"
+            href="https://drive.google.com/file/d/1OcBIbkevdIpzLZEgk8ylgCRLCkuD9cMk/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xl inline-block mx-6 text-neutral hover:text-white"

@@ -36,7 +36,7 @@ const Projects = [
     features: [
       "Input for Expense Details",
       "Calculate Button",
-      "Locat Storage for storing Data",
+      "Locate Storage for storing Data",
       "Calculate Total Spendings",
       "Dynamic Results",
       "Mobile Responsive Design",
@@ -104,8 +104,9 @@ const Projects = [
     description:
       "This project Hs been done by HTML,CSS & javascript.This is a very beginner free project. the link to view website live",
     category: "webapps",
-    liveLink: "https://srikkkant-portfolio.netlify.app/",
-    codeLink: "https://github.com/Srikant114/My-portfolio",
+    liveLink: "https://srikant-portfolio.vercel.app/",
+    codeLink: "https://github.com/Srikant114/Srikant-portfolio-frontend",
+    
   },
   {
     id: 4,
@@ -122,8 +123,10 @@ const Projects = [
     description:
       "This is a Portfolio Full Stack Project Done Useing React and Sanity backend client",
     category: "reactjs",
-    liveLink: "https://srikant-portfolio.vercel.app/",
-    codeLink: "https://github.com/Srikant114/Srikant-portfolio-frontend",
+    
+    liveLink: "https://srikkkant-portfolio.netlify.app/",
+    codeLink: "https://github.com/Srikant114/My-portfolio",
+
   },
 ];
 

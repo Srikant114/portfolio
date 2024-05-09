@@ -81,7 +81,7 @@ const Navbar = () => {
                 </NavLink>
               </li>
             ))}
-            <a href="/" className="inline-block ml-4" target="blank">
+            <a href="https://drive.google.com/file/d/1OcBIbkevdIpzLZEgk8ylgCRLCkuD9cMk/view?usp=sharing" className="inline-block ml-4" target="blank">
               <PrimaryBtn>
                 <span>Resume</span>
                 <span>
@@ -125,7 +125,7 @@ const Navbar = () => {
                   </li>
                 ))}
                 <li className="text-center m-4">
-                  <a href="/" className="inline-block w-full" target="blank">
+                  <a href="https://drive.google.com/file/d/1OcBIbkevdIpzLZEgk8ylgCRLCkuD9cMk/view?usp=sharing" className="inline-block w-full" target="blank">
                     <PrimaryBtn className="primary-button w-full text-white">
                       <span>Resume</span>
                       <span>
