@@ -37,7 +37,7 @@ const Projects = [
       "Input for Expense Details",
       "Calculate Button",
       "Locate Storage for storing Data",
-      "Calculate Total Spendings",
+      "Calculate Total Spending",
       "Dynamic Results",
       "Mobile Responsive Design",
     ],
@@ -121,7 +121,7 @@ const Projects = [
     technologies: ["React Js","SASS","Framer Motion", "Sanity",],
     title: "Srikkkant",
     description:
-      "This is a Portfolio Full Stack Project Done Useing React and Sanity backend client",
+      "This is a Portfolio Full Stack Project Done Using React and Sanity backend client",
     category: "reactjs",
     
     liveLink: "https://srikkkant-portfolio.netlify.app/",

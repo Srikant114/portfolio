@@ -38,7 +38,7 @@ const Banner = () => {
           />
         </div>
         <p className="text-[#999] max-w-xl mb-6 font-medium translate-y-[-20%] sm:translate-y-[-0%]">
-          I am a MERN stack developer, commited to build high-quality web
+          I am a MERN stack developer, committed to build high-quality web
           applications that meet the needs of my clients. React.js, MongoDB,
           Express.js, and Node.js to create scalable and robust web
           applications.
