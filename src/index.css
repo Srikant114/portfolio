@@ -30,28 +30,6 @@ code {
     monospace;
 }
 
-/* Customize Scroll Bar */
-
-/* ::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-  background-color: #313131;
-  border-radius: 10px;
-}
-
-::-webkit-scrollbar {
-  width: 12px;
-  background-color: #212121;
-}
-
-::-webkit-scrollbar-thumb {
-  border-radius: 10px;
-  background-image: -webkit-gradient(linear,
-      left bottom,
-      left top,
-      color-stop(0.44, #FF651C),
-      color-stop(0.72, #e48a23))
-} */
-
 * {
   scrollbar-width: medium;
   scrollbar-color: #00b0ff #1C2323;
