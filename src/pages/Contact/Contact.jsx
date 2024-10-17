@@ -40,7 +40,7 @@ const Contact = () => {
   const handleSend = (e) => {
     e.preventDefault();
     emailjs
-      .sendForm(
+      .send(
         "service_114mailtoss",
         "template_114mailtoss",
         form.current,
